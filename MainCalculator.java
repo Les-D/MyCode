@@ -1,5 +1,3 @@
-package hr.fer.oop.edgar.labos4.ponovo;
-
 public class MainCalculator {
 	
 	public static void main(String[] args) {
