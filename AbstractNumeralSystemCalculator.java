@@ -1,5 +1,3 @@
-package hr.fer.oop.edgar.labos4.ponovo;
-
 public abstract class AbstractNumeralSystemCalculator {
 	
     String inputDecNumber;
