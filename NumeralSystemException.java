@@ -1,5 +1,3 @@
-package hr.fer.oop.edgar.labos4.ponovo;
-
 @SuppressWarnings("serial")
 public class NumeralSystemException extends RuntimeException {
 	
